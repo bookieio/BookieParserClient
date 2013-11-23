@@ -1,9 +1,9 @@
 package us.bmark.bookieParserClient.BookeParserService;
 
 public class ReadableMeta {
-    String title;
-    String content;
-    String hash_id;
-    String readable;
-    String url;
+    public String title;
+    public String content;
+    public String hash_id;
+    public String readable;
+    public String url;
 }
